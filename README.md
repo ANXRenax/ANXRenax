@@ -1,6 +1,7 @@
 [![Header](https://github.com/ANXRenax/ANXRenax/blob/main/Assets/Torgashov%20Sergey.png)](https://www.youtube.com/@anxrenax6809)
 
-## I'm beginner Software Engineer
+## Обо мне
+В настоящее время я сосредоточен на улучшении своих навыков функционального тестирования и стремлюсь изучать и внедрять автоматизированные тестирования. Моя главная цель — получить позицию в компании, которая предлагает разнообразные и интересные проекты с потенциалом роста для моего личного и профессионального развития.
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logocolor=47C5FB)
@@ -14,5 +15,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-090909?style=for-the-badge&logo=twitch&logocolor=E5D3FF)](https://www.twitch.tv/anx_renax/)
 [![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube&logocolor=FF0000)](https://www.youtube.com/@anxrenax6809)
 
-
+### Моя статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANXRenax&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
